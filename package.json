@@ -52,7 +52,7 @@
     "eslint": "^4.3.0",
     "eslint-config-posva": "^1.0.0",
     "inject-loader": "^3.0.1",
-    "karma": "^1.7.0",
+    "karma": "^6.3.16",
     "karma-chai-dom": "^1.1.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.1",
